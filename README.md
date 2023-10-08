@@ -1,8 +1,10 @@
 # Dibimbing, Data Engineering Bootcamp
 
-## Menggunakan complete mode file berada dalam spark-scripts/task-dibimbing-consume.pu
-## Mencoba menggunakan update mode file berada dalam spark-scripts/sum.py
+## Task
+### 1. Menggunakan complete mode file berada dalam spark-scripts/task-dibimbing-consume.py
+### 2. Mencoba menggunakan update mode file berada dalam spark-scripts/sum.py
 
+## How to run scripts
 1. Clone This Repo.
 2. Run `make docker-build` for x86 user, or `make docker-build-arm` for arm chip user.
 
